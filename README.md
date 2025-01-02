@@ -14,7 +14,7 @@
 
 </div>
 
-# Genezio FaaS Python Getting Started
+# Genezio FaaS Python Getting Started Now!
 
 In the `index.py` file, you will see the implementation of a function that writes something to the console and returns a 200 page with a simple message.
 
